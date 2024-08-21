@@ -7,12 +7,13 @@ Experienced IT professional with a strong background in System Administration, a
 ## Skills
 - **Cloud Services**: AWS (EC2, S3, IAM, CloudWatch, RDS, DynamoDB, VPC, CloudFront, CloudTrail, Elastic Beanstalk, CloudFormation)
 - **Infrastructure as Code**: Terraform
-- **Containerization & Orchestration**: Docker, Kubernetes, EKS
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm, EKS 
 - **CI/CD**: Jenkins, GitHub Actions
 - **Version Control**: Git
-- **Operating Systems**: Linux
+- **Operating Systems**: Linux,Windows
 - **Web Technologies**: Web servers, APIs
-- **System Enginering**: Advanced knowledge of Linux,RedHat,
+- **System Enginering**: Advanced knowledge of Linux,RedHat,Windows Server 
+- **System Monitoring**: Advanced knowledge of Prometheus,Grafana,Datadog,Newrelic,ELK stack 
 
 ## Professional Experience
 
